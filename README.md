@@ -11,5 +11,5 @@ Online Multiplayer game website to play board games online while chatting.
 -----
 ![App Screenshot](/screenShoots/s3.jpg)
 -----
-![App Screenshot](/screenShoots/s4.png)
+![App Screenshot](/screenShoots/s4.jpg)
 -----
